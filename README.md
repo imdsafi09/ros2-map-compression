@@ -14,12 +14,12 @@
 
 ---
 
-## 📁 Package Layout
+##  Package Layout
 
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **`map_compressor.py`**
    - Subscribes to `/map`
