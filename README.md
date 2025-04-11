@@ -55,3 +55,4 @@ source install/setup.bash
 ros2 launch ros2-map-compression map_compression.launch.py
 rviz2
 ros2 run ros2-map-compression map_comparator_plot
+![image](https://github.com/user-attachments/assets/197bbf26-1859-4d6a-9022-1193fcf1e467)
